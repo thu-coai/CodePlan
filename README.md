@@ -8,7 +8,7 @@ In this work, we introduce CodePlan, a scalable framework that empowers LLMs to 
 
 By leveraing the structured and versatile nature of code, CodePlan effectively captures the rich semantics and control flows inherent to sophisticated reasoning tasks.
 
-![](figs/example.pdf)
+![](figs/example.png)
 
 ### Dataset
 
